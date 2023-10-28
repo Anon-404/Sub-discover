@@ -24,7 +24,7 @@ def banner():
 	print(GREEN,"_"*67)
 	print(RED,a)
 	print(GREEN,b)
-	print("created by Anon404")
+	print("powerd by team Anon404 \ncreated by MRZ724")
 	print(GREEN,"_"*67)	
 banner()
 print()
