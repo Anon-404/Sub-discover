@@ -5,7 +5,7 @@ Discover all subdomains of your terget web
 ## Screenshots
 
 ![App Screenshot](https://imgur.com/fVCHTND.png)
-![App Screenshot]()
+![App Screenshot](https://imgur.com/QiRhoDx.png)
 
 ## Installation
 
