@@ -31,7 +31,7 @@ print()
 domain = input("[+] Enter terget domain : ").replace("https://","").replace("http://","").replace("www.","").replace("https://www.","").replace("http://www.","")
 print(BLUE,"\b[!] Chacking domain")
 try:
-	y = requests.get(f"https://{domain}")
+	y = requests.get(f"http://{domain}")
 	if y.status_code == 200:
 		pass
 except requests.ConnectionError:
