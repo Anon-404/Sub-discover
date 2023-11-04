@@ -13,7 +13,7 @@ For debian based linux os
 
 ```bash
 sudo apt install python3 -y
-git clone https://github.com/MRZ724/Sub-discover
+git clone https://github.com/Anon-404/Sub-discover
 cd Sub-discover
 sudo pip3 install requests
 sudo pip3 install threading 
@@ -24,7 +24,7 @@ For termux
 ```bash
 pkg install git
 pkg install python3 -y
-git clone https://github.com/MRZ724/Sub-discover
+git clone https://github.com/Anon-404/Sub-discover
 cd Sub-discover
 pip install requests
 pip install threading 
@@ -35,7 +35,7 @@ For arch based linux os
 
 ```bash
 sudo pacman -Sy python3 -y
-git clone https://github.com/MRZ724/Sub-discover 
+git clone https://github.com/Anon-404/Sub-discover 
 cd Sub-discover 
 sudo pip3 install requests
 sudo pip3 install threading 
