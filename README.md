@@ -15,6 +15,7 @@ For debian based linux os
 sudo apt install python3 -y
 git clone https://github.com/Anon-404/Sub-discover
 cd Sub-discover
+sudo apt install python3-pip
 sudo pip3 install requests
 sudo pip3 install threading 
 python3 Sub-discover.py
@@ -26,6 +27,7 @@ pkg install git
 pkg install python3 -y
 git clone https://github.com/Anon-404/Sub-discover
 cd Sub-discover
+pkg install python-pip
 pip install requests
 pip install threading 
 python3 Sub-discover.py
@@ -37,6 +39,7 @@ For arch based linux os
 sudo pacman -Sy python3 -y
 git clone https://github.com/Anon-404/Sub-discover 
 cd Sub-discover 
+pacman -S python3-pip
 sudo pip3 install requests
 sudo pip3 install threading 
 python3 Sub-discover.py 
