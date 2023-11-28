@@ -40,9 +40,8 @@ sudo pacman -Sy python3 -y
 git clone https://github.com/Anon-404/Sub-discover 
 cd Sub-discover 
 pacman -S python-pip
-sudo pacman -S python-pipx
-sudo pipx install requests 
-sudo pipx install threading 
+sudo pacman -S python-requests
+sudo pacman -S python-threading 
 python3 Sub-discover.py 
 ```
 
