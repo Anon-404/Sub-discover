@@ -39,9 +39,10 @@ For arch based linux os
 sudo pacman -Sy python3 -y
 git clone https://github.com/Anon-404/Sub-discover 
 cd Sub-discover 
-pacman -S python3-pip
-sudo pip3 install requests
-sudo pip3 install threading 
+pacman -S python-pip
+sudo pacman -S python-pipx
+sudo pipx install requests 
+sudo pipx install threading 
 python3 Sub-discover.py 
 ```
 
